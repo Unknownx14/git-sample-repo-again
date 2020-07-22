@@ -3,7 +3,7 @@ git status   -> prints the status of the Git Repository
  - Added something
 git init   -> Initializes the Git Repository
 
-
+ - Added more
 git config --global user.name "Unknownx14"
 
 
