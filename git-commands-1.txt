@@ -13,14 +13,19 @@ git config --global user.email "jovan.kovacevic@hotmail.com"
 git config user.name "Let's Kode It"
 
 
+
 git config user.email letskodeit@gmail.com
 
 
+
 git add
+
 git commit -m ""   -> In double quotes insert comment or description regarding that commit
 
 
+
 git log
+
 
 
 
@@ -43,4 +48,11 @@ Git diff <filename>
 
 
 
-ABCDE
+
+--------------------------------------------------------------------------------------------
+Privatebranch2 has done some work:
+F
+G
+H
+I
+J
