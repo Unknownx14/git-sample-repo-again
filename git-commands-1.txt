@@ -1,0 +1,44 @@
+git status   -> prints the status of the Git Repository
+
+
+git init   -> Initializes the Git Repository
+
+
+git config --global user.name "Unknownx14"
+
+
+git config --global user.email "jovan.kovacevic@hotmail.com"
+
+
+git config user.name "Let's Kode It"
+
+
+git config user.email letskodeit@gmail.com
+
+
+git add
+git commit -m ""   -> In double quotes insert comment or description regarding that commit
+
+
+git log
+
+
+
+Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
